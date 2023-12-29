@@ -65,4 +65,4 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/gray.webp
+    - assets/images/
